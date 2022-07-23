@@ -162,7 +162,7 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 ---------
 
 
- [![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) | [![Istikmal](https://github.com/BochilGaming.png?size=150)](https://github.com/BochilGaming) | [![Fadli](https://github.com/FadliDarmawan.png?size=100)](https://github.com/FadliDarmawan) | [![Ryuzenn](https://github.com/kutemeikito.png?size=100)](https://github.com/kutemeikito)
+ [![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) | [![Istikmal](https://github.com/BochilGaming.png?size=150)](https://github.com/BochilGaming) | [![Ryuzenn](https://github.com/kutemeikito.png?size=100)](https://github.com/kutemeikito)
 ----|----|----
-[Nurutomo](https://github.com/Nurutomo) | [Istikmal](https://github.com/BochilGaming) | [Fadli](https://github.com/FadliDarmawan) | [Ryuzenn](https://github.com/kutemeikito)
- Penulis / Pencipta | SC owner | Pengembang ulang | Penerus
+[Nurutomo](https://github.com/Nurutomo) | [Istikmal](https://github.com/BochilGaming) | [Ryuzenn](https://github.com/kutemeikito)
+ Penulis / Pencipta | SC owner | Pengembang ulang
