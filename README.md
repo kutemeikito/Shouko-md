@@ -1,16 +1,14 @@
 # Haruno
-<a href = "https://github.com/FadliDarmawan/haruno-md/blob/main/updatePatch/CHANGELOG"><img src = "https://telegra.ph/file/831188003a6180c72c38b.png">
+<a href = "https://github.com/kutemeikito/Shouko-md/blob/main/updatePatch/CHANGELOG"><img src = "https://telegra.ph/file/831188003a6180c72c38b.png">
 
 ## Version 3.0 is Out!
 Dont forget to read the changelog.
 
-<a href = "https://github.com/FadliDarmawan/haruno-md"><img src = "https://cardivo.vercel.app/api?name=Haruno&description=Haruno,%20Bot%20WhatsApp%20multi%20device.%20Created%20by%20Nurutomo,%20BochilGaming,%20dan%20FadliDarmawan.&image=https://telegra.ph/file/196b5f6f24ccdc6805021.jpg?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&github=FadliDarmawan&pattern=topography&colorPattern=%23eaeaea"/><a>
+<a href = "https://github.com/kutemeikito/Shouko-md"><img src = "https://cardivo.vercel.app/api?name=Haruno&description=Haruno,%20Bot%20WhatsApp%20multi%20device.%20Created%20by%20Nurutomo,%20BochilGaming,%20dan%20FadliDarmawan.&image=https://telegra.ph/file/196b5f6f24ccdc6805021.jpg?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&github=FadliDarmawan&pattern=topography&colorPattern=%23eaeaea"/><a>
 
-### Group Official Haruno
-[![Grup WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/Dqdjz7aSWJj0IyORAsdYom)
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/FadliDarmawan/haruno-md)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kutemeikito/Shouko-md)
 
 <p align = "left">
       <img src = "https://telegra.ph/file/196b5f6f24ccdc6805021.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
@@ -46,7 +44,7 @@ node .
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/FadliDarmawan/haruno-md
+git clone https://github.com/kutemeikito/Shouko-md
 cd haruno-md
 npm install
 npm update
@@ -56,7 +54,7 @@ npm index
 ---------
 
 ## FOR HEROKU USER
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/FadliDarmawan/haruno-md)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kutemeikito/Shouko-md)
 
 ### Installing buildpack
 * heroku/nodejs
@@ -164,7 +162,7 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 ---------
 
 
- [![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) | [![Istikmal](https://github.com/BochilGaming.png?size=150)](https://github.com/BochilGaming) | [![Fadli](https://github.com/FadliDarmawan.png?size=100)](https://github.com/FadliDarmawan)
+ [![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) | [![Istikmal](https://github.com/BochilGaming.png?size=150)](https://github.com/BochilGaming) | [![Fadli](https://github.com/FadliDarmawan.png?size=100)](https://github.com/FadliDarmawan) | [![Ryuzenn](https://github.com/kutemeikito.png?size=100)](https://github.com/kutemeikito)
 ----|----|----
-[Nurutomo](https://github.com/Nurutomo) | [Istikmal](https://github.com/BochilGaming) | [Fadli](https://github.com/FadliDarmawan)
- Penulis / Pencipta | SC owner | Pengembang ulang
+[Nurutomo](https://github.com/Nurutomo) | [Istikmal](https://github.com/BochilGaming) | [Fadli](https://github.com/FadliDarmawan) | [Ryuzenn](https://github.com/kutemeikito)
+ Penulis / Pencipta | SC owner | Pengembang ulang | Penerus
