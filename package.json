@@ -1,6 +1,6 @@
 {
-    "name": "haruno",
-    "version": "3.0.1",
+    "name": "shouko",
+    "version": "1.0.0",
     "description": "Customizable WhatsApp Bot",
     "main": "index.js",
     "type": "module",
@@ -17,16 +17,16 @@
     "keywords": [
         "termux-whatsapp-bot"
     ],
-    "homepage": "https://github.com/FadliDarmawan/haruno-md",
+    "homepage": "https://github.com/kutemeikito/shouko-md",
     "author": {
-        "name": "FadliDarmawan"
+        "name": "Ryuzenn"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/FadliDarmawan/haruno-md.git"
+        "url": "git+https://github.com/kutemeikito/shouko-md.git"
     },
     "bugs": {
-        "url": "https://github.com/FadliDarmawan/haruno-md/issues"
+        "url": "https://github.com/kutemeikito/shouko-md/issues"
     },
     "license": "MIT",
     "dependencies": {
